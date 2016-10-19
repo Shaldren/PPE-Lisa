@@ -1,0 +1,33 @@
+ETP = 1 H -> 125 euros
+
+
+
+1.
+MCD-MLD-MPD : 2H (250)
+Script de Création: 2H(250)
+Gestion des droits : 1H(125)
+
+2.
+Liaison base de données : 6H(750)
+Création des objets métier : 4H (500)
+Interfaces : 6H(750)
+Catégorie : 3H(375)
+Articles : 6H(750)
+
+3.
+Procédure de récup : 4H(500)
+Liaison données Backoffice : 4H(500)
+Création objet métier : 4H (500)
+Catégorie : 2H(250)
+Article : 6H(750)
+
+4.
+Liaison base de données : 2H(250)
+Creation objet métier : 3H(375)
+Authentification : 3H(375)
+Récupération : 4(500)
+
+5.
+Mise en place des jeux d'éssai : 5H(625)
+Application des correctifs : 6H(750)
+
